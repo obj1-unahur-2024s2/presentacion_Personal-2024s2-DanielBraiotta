@@ -1,35 +1,13 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+Hola mi nombre completo es Daniel Enrique braiotta Konno y vivo en la zona Castelar norte cerca del Plaza Oeste Shopping.
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Estudie la carrera de Ingeniería Informática en la Universidad de la Matanza pero no logre continuar debido a problemas familiares y económicos que se presentaron en ese momento.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Estuve trabajando por un largo periodo y ahora que se tranquilizo mi situación considere retomar los estudios nuevamente.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+Decidí ingresar a la Unahur por la recomendación de unos amigos, las carreras que tenia la universidad me interesaron y además porque me queda cerca de donde vivo actualmente. 
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
+Me he anotado en la carrera de “Tecnicatura Universitaria en Programación de Video Juegos” ya que siempre sentí interés por los videojuegos y las computadoras además de chico siempre soñé con modificar los juegos que jugaba. 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Más tarde tengo pensado realizar la simultariedad de carreras que estén relacionadas con la informática dentro de la universidad para expandir mis conocimientos.
